@@ -6,6 +6,6 @@ Welcome to my personal repository for academic backups. This space serves as a d
  
 Contains my coursework from Undergraduate Year 1 <br><br>
 
- <kbd>[Year_2_Coursework](./Year_2_Coursework)</kbd> <br>
+🥼 [Year_2_Coursework](./Year_2_Coursework) <br>
  
 Contains my coursework from Undergraduate Year 2
