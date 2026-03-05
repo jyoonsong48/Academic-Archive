@@ -1,6 +1,6 @@
 # Academic-Archive
 🧬 Academic Archive <br>
-Welcome to my personal repository for academic backups. This space serves as a digital library for my undergraduate lab reports, case studies, and lab portfolios. <br><br>
+Welcome to my personal repository for academic backups. This space serves as a digital library for my undergraduate lab reports, case studies, policy brief, etc. <br><br>
 
  🥼 <kbd>[Year_1_Coursework](./Year_1_Coursework)<kbd> <br>
  
