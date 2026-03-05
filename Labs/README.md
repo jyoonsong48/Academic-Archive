@@ -1,1 +1,1 @@
-🧬 Welcome! This space contains digitized versions of my undergraduate experiments.
+🧬 Welcome! This space contains digitised versions of my undergraduate experiments.
