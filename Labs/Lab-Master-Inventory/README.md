@@ -1,62 +1,65 @@
 # $\color{#97BFB4}{\text{🧬 Lab Master Inventory}}$
 
-This space contains simplified tables of the experiments: over 30+ labs from my Human Biosciences degree.
+This space contains simplified tables of over 30+ labs from my Human Biosciences degree.
+<br> To see detailed versions:
+<kbd> [![Year1_Labs_Backup](https://img.shields.io/badge/Year_1_Labs_Backup-97BFB4?style=for-the-badge)](./Year1_Labs_Backup) </kbd>
+<kbd> [![Year2_Labs_Backup](https://img.shields.io/badge/Year_2_Labs_Backup-97BFB4?style=for-the-badge)](./Year2_Labs_Backup) </kbd>
+                                                                                                                                
+<br> Simplified Year 1:
+| Experiment Title                  | Key Techniques                                                       |
+|-----------------------------------|----------------------------------------------------------------------|
+| Surface EMGs                      | EMG Recording, RMS Amplitude Analysis.                               |
+| Nerve Conduction                  | Nerve Stimulation, Latency Measurement.                              |
+| Spirometry                        | Spirometry, Volume Correction, Dynamic Function Tests.               |
+| ECG & Pulse                       | ECG Recording, Lead Placement, Pulse Transduction.                   |
+| Blood Pressure                    | Auscultation, Palpation, Sphygmomanometry.                           |
+| Pipetting & Dilutions             | Micropipetting, Molarity Calculations, Spectrophotometry Check.      |
+| Spectrophotometry                 | Wavelength Scanning, Calibration Curve Construction.                 |
+| Glucose Assay                     | GOD-PAP Assay, RStudio Data Analysis.                                |
+| Lowry Protein Assay               | Lowry Method, Dilution Series, Protein Quantification.               |
+| Gel Filtration                    | Size Exclusion Chromatography, Fraction Collection.                  |
+| Mammalian Cell Culture            | Inverted Microscopy, Haemocytometer counting, Subculturing.          |
+| Cell Toxicity (Part 1)            | Controlled drug testing, Aseptic technique, Cell seeding.            |
+| Cell Toxicity & Enzyme Kinetics   | Crystal Violet Staining, Enzyme Assay (Alkaline Phosphatase).        |
+| Enzyme Kinetics - Concentration   | Spectrophotometry, Initial Rate Calculation, Protein Interpolation.  |
+| Michaelis-Menten Analysis         | Lineweaver-Burk Plotting, Serial Dilution of Substrate.              |
+| Mitochondrial Isolation           | Differential Centrifugation, Homogenization, SDH Assays.             |
+| Aseptic Technique & Viable Counts | Aseptic Technique, Streak/Spread Plating, Serial Dilutions.          |
+| Antimicrobial Susceptibility      | Disc Diffusion Method, Zone of Inhibition Measurement.               |
+| Bacterial Identification          | Gram Staining, Selective Media (MacConkey, EMBA, Blood Agar).        |
+| Antibiotic Producers & MIC        | Oxidase Test, Crowded Plate Technique, MIC Determination.            |
+| Phage Plaque Assay                | Serial Dilution, Plaque Assay, Bacterial Lawn Culture ($E. coli$).   |
+| Eukaryote ID & Protozoa           | Wet Mount Preparation, Microscopic Identification, Blood Staining.   |
+| Human DNA Isolation & PCR         | DNA Purification (Saliva), PCR Amplification, Thermal Cycling.       |
+| PCR Product Analysis              | Agarose Gel Electrophoresis, UV Visualisation (GelRed).              |
+| Restriction & Ligation            | Restriction Endonuclease Digestion, DNA Ligation.                    |
+| Bacterial Transformation          | Preparation of Competent Cells, Heat Shock Transformation.           |
+| Recombinant Selection             | Blue/White Screening (X-gal/IPTG), Viable Cell Counting.             |
+| Plasmid Miniprep & Mapping        | Qiagen Miniprep, Nanodrop DNA Measurement, Restriction Mapping.      |
+| Microscopy & Cell Counting        | Bright-field Microscopy, Buccal Cell Slide Prep, Haemocytometer use. |
+| Phenotypic Variation in Yeast     | Colony Forming Assay, Stress Induction (Heat/MMS), Serial Dilution.  |
+| Yeast Stress Quantification       | Tally Counting, Data Collation, Comparative Analysis.                |
+| Plasmid Isolation & Purity        | Rapid Alkaline Lysis, Spectrophotometry (260/280 ratio).             |
+| ABO & Rh Blood Typing             | Blood Agglutination Testing, Genetic Frequency Analysis.             |
 
-(TBD) Year 1:
-
-| **ID**  | **Category** | **Experiment Title**              | **Objective**                                                                                            | **Key Techniques**                                                   | **Variables (Independent vs. Dependent)**                                      | **Results Status** | **** |
-|---------|--------------|-----------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------|------|
-| 4006-L1 | Physiology   | Surface EMGs                      | To record surface EMGs and examine the properties of muscular fatigue.                                   | EMG Recording, RMS Amplitude Analysis.                               | Weights (kg) vs. RMS Amplitude (mV).                                           |                    |      |
-| 4006-L2 | Physiology   | Nerve Conduction                  | To calculate nerve conduction velocity by stimulating the median nerve.                                  | Nerve Stimulation, Latency Measurement.                              | Stimulation Site (Wrist vs. Elbow) vs. Latency (ms).                           |                    |      |
-| 4006-L3 | Physiology   | Spirometry                        | To perform pulmonary function tests and compare normal vs. ""simulated asthma"" data.                    | Spirometry, Volume Correction, Dynamic Function Tests.               | Breathing Condition (Normal vs. Obstructed) vs. Lung Volumes (FVC, FEV1).      |                    |      |
-| 4006-L4 | Physiology   | ECG & Pulse                       | To record an ECG, identify components, and relate them to the finger pulse.                              | ECG Recording, Lead Placement, Pulse Transduction.                   | State of Body (Rest vs. Exercise) vs. ECG Intervals (PR, QRS, ST).             |                    |      |
-| 4006-L5 | Physiology   | Blood Pressure                    | To measure arterial blood pressure and demonstrate how position and cuff size affect magnitude.          | Auscultation, Palpation, Sphygmomanometry.                           | Measurement Site, Body Position, or Cuff Size vs. Systolic/Diastolic Pressure. |                    |      |
-| 4008-L1 | Biomolecules | Pipetting & Dilutions             | To compare the accuracy and precision of automatic pipettes and prepare dilutions.                       | Micropipetting, Molarity Calculations, Spectrophotometry Check.      | Pipette Type vs. Mass of Water (g) / % Error.                                  |                    |      |
-| 4008-L2 | Biomolecules | Spectrophotometry                 | To run an absorption spectrum of a dye and determine an unknown concentration using a calibration curve. | Wavelength Scanning, Calibration Curve Construction.                 | Wavelength (nm) or Dye Concentration vs. Absorbance.                           |                    |      |
-| 4008-L3 | Biomolecules | Glucose Assay                     | To determine glucose concentration in a clinical sample using an enzyme-based assay.                     | GOD-PAP Assay, RStudio Data Analysis.                                | Glucose Concentration (mM) vs. Absorbance (500nm).                             |                    |      |
-| 4008-L4 | Biomolecules | Lowry Protein Assay               | To determine unknown protein concentration in a cell-free extract (CFE).                                 | Lowry Method, Dilution Series, Protein Quantification.               | BSA Concentration (μg/ml) vs. Absorbance (750nm).                              |                    |      |
-| 4008-L5 | Biomolecules | Gel Filtration                    | To separate molecules based on size and shape and detect them using spectrophotometry.                   | Size Exclusion Chromatography, Fraction Collection.                  | Elution Volume (ml) vs. Absorbance at specific wavelengths.                    |                    |      |
-| 4009-L1 | Cell Biology | Mammalian Cell Culture            | To maintain and subculture LTK- mammalian cells and assess confluency.                                   | Inverted Microscopy, Haemocytometer counting, Subculturing.          | Plating Density (4x10² vs 4x10³) vs. Cell Doubling Time.                       |                    |      |
-| 4009-L2 | Cell Biology | Cell Toxicity (Part 1)            | To identify GPCR agonists/antagonists by testing drugs A1 and B1 on mouse L cells.                       | Controlled drug testing, Aseptic technique, Cell seeding.            | Drug Treatment (A1 vs. B1) vs. Cell Survival/Growth.                           |                    |      |
-| 4009-L3 | Cell Biology | Cell Toxicity & Enzyme Kinetics   | To observe drug effects via Crystal Violet staining and set up a quantitative enzyme assay.              | Crystal Violet Staining, Enzyme Assay (Alkaline Phosphatase).        | Catalyst (Enzyme vs. Control) vs. Absorbance at 552 nm.                        |                    |      |
-| 4009-L4 | Cell Biology | Enzyme Kinetics - Concentration   | To determine the dependence of reaction rate on enzyme concentration.                                    | Spectrophotometry, Initial Rate Calculation, Protein Interpolation.  | Enzyme Concentration (µg/mL) vs. Initial Rate of Reaction.                     |                    |      |
-| 4009-L5 | Cell Biology | Michaelis-Menten Analysis         | To determine $K_m$ and $V_{max}$ for Alkaline Phosphatase.                                               | Lineweaver-Burk Plotting, Serial Dilution of Substrate.              | Substrate Concentration (mM) vs. Reaction Rate ($v_0$).                        |                    |      |
-| 4009-L6 | Cell Biology | Mitochondrial Isolation           | To isolate mitochondria and qualitatively determine SDH activity.                                        | Differential Centrifugation, Homogenization, SDH Assays.             | Presence of Inhibitor (Malonate) vs. Time for Decolourisation.                 |                    |      |
-| 4010-L1 | Microbiology | Aseptic Technique & Viable Counts | To practice aseptic isolation and determine viable counts using serial dilutions.                        | Aseptic Technique, Streak/Spread Plating, Serial Dilutions.          | Dilution Factor vs. Colony Forming Units (CFU/ml).                             |                    |      |
-| 4010-L2 | Microbiology | Antimicrobial Susceptibility      | To evaluate the effectiveness of antibiotics against specific pathogens.                                 | Disc Diffusion Method, Zone of Inhibition Measurement.               | Antibiotic Type vs. Diameter of Inhibition Zone (mm).                          |                    |      |
-| 4010-L3 | Microbiology | Bacterial Identification          | To classify bacteria using Gram staining and selective/indicator media.                                  | Gram Staining, Selective Media (MacConkey, EMBA, Blood Agar).        | Bacterial Species vs. Gram Reaction & Growth Patterns.                         |                    |      |
-| 4010-L4 | Microbiology | Antibiotic Producers & MIC        | To detect antibiotic-producing organisms from soil and determine MIC.                                    | Oxidase Test, Crowded Plate Technique, MIC Determination.            | Media Type (Streptomyces vs Nutrient Agar) vs. Zone of Clearing.               |                    |      |
-| 4010-L5 | Microbiology | Phage Plaque Assay                | To calculate the titre (concentration) of T7 bacteriophage.                                              | Serial Dilution, Plaque Assay, Bacterial Lawn Culture ($E. coli$).   | Phage Dilution Factor vs. Number of Plaques (PFU/ml).                          |                    |      |
-| 4010-L6 | Microbiology | Eukaryote ID & Protozoa           | To identify protists and fungi based on morphological characteristics.                                   | Wet Mount Preparation, Microscopic Identification, Blood Staining.   | Organism Type vs. Distinguishing Features (Cilia, Flagella, etc.).             |                    |      |
-| 4011-L1 | Applied Tech | Human DNA Isolation & PCR         | To isolate human DNA and amplify polymorphic loci (TPA/STX).                                             | DNA Purification (Saliva), PCR Amplification, Thermal Cycling.       | Genetic Locus (TPA/STX) vs. Presence of Alu insertion.                         |                    |      |
-| 4011-L2 | Applied Tech | PCR Product Analysis              | To determine genotypes/sex through gel electrophoresis of PCR products.                                  | Agarose Gel Electrophoresis, UV Visualisation (GelRed).              | DNA Fragment Size (bp) vs. Genotype Identification (+/+; -/-; +/-).            |                    |      |
-| 4011-L3 | Applied Tech | Restriction & Ligation            | To cut and join DNA fragments for subcloning the MnSOD gene.                                             | Restriction Endonuclease Digestion, DNA Ligation.                    | Enzyme Type ($EcoR1, Xba1$) vs. DNA Fragment Pattern.                          |                    |      |
-| 4011-L4 | Applied Tech | Bacterial Transformation          | To introduce recombinant DNA into competent $E. coli$ cells.                                             | Preparation of Competent Cells, Heat Shock Transformation.           | Transformation Treatment vs. Bacterial Growth on Selective Media.              |                    |      |
-| 4011-L5 | Applied Tech | Recombinant Selection             | To distinguish and count recombinant vs. non-recombinant colonies.                                       | Blue/White Screening (X-gal/IPTG), Viable Cell Counting.             | Ligation Product vs. Number/Colour of Colonies.                                |                    |      |
-| 4011-L6 | Applied Tech | Plasmid Miniprep & Mapping        | To recover and analyze recombinant plasmid DNA from colonies.                                            | Qiagen Miniprep, Nanodrop DNA Measurement, Restriction Mapping.      | Colony Source (Blue vs. White) vs. DNA Concentration/Purity.                   |                    |      |
-| 4012-L1 | Genetics     | Microscopy & Cell Counting        | To master bright-field microscopy and quantify buccal epithelial cell density.                           | Bright-field Microscopy, Buccal Cell Slide Prep, Haemocytometer use. | Sample Source vs. Calculated Cell Density (cells/ml).                          |                    |      |
-| 4012-L2 | Genetics     | Phenotypic Variation in Yeast     | To investigate how natural genetic variation in yeast strains alters tolerance to heat and DNA damage.   | Colony Forming Assay, Stress Induction (Heat/MMS), Serial Dilution.  | Yeast Strain (WE, WA, NA) vs. % Decrease in Viability.                         |                    |      |
-| 4012-L3 | Genetics     | Yeast Stress Quantification       | To quantify survival rates following heat stress ($40^\circ C$) or DNA damage (MMS).                     | Tally Counting, Data Collation, Comparative Analysis.                | Stress Type (Heat vs. MMS) vs. Colony Count.                                   |                    |      |
-| 4012-L4 | Genetics     | Plasmid Isolation & Purity        | To isolate pBR322 plasmid and analyze yield and purity.                                                  | Rapid Alkaline Lysis, Spectrophotometry (260/280 ratio).             | Sample Source vs. DNA Concentration and Purity.                                |                    |      |
-| 4012-L5 | Genetics     | ABO & Rh Blood Typing             | To determine personal blood types and analyze population frequencies.                                    | Blood Agglutination Testing, Genetic Frequency Analysis.             | Blood Sample vs. Agglutination Reaction (ABO/Rh status).                       |                    |      |
 
 <br>
 
-(still ongoing) Year 2:
-| **ID**  | **Category**   | **Experiment Title**                 | **Objective**                                                                  | **Key Techniques**                                                           | **Variables (Independent vs. Dependent)**                           | **Status** |
-|---------|----------------|--------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
-| 5007-L1 | Medical Micro  | Bacterial ID & Susceptibility        | To identify clinical isolates and test sensitivity to four key antibiotics.    | Gram Staining, Kirby Bauer Disc Diffusion, Lawn Inoculation.                 | Bacterial Strain vs. Zone of Inhibition (mm).                       |            |
-| 5007-L2 | Medical Micro  | DNA Extraction & PCR                 | To extract genomic DNA from S. aureus and MRSA for molecular identification.   | Enzymatic Lysis, Spin-column Extraction, Nanodrop, PCR.                      | Isolate Type vs. DNA Yield (ng/µl) & Purity (260/280).              |            |
-| 5007-L3 | Medical Micro  | Probiotic Analysis & Electrophoresis | To determine viable counts in probiotics and analyze PCR products.             | Anaerobic Culture, Agarose Gel Electrophoresis, Serial Dilution.             | Probiotic Brand vs. Viable Count (CFU/ml).                          |            |
-| 5007-L4 | Medical Micro  | Biochemical ID & MIC                 | To differentiate Staphylococci and determine Minimum Inhibitory Concentration. | DNase Test, Catalase Test, Microdilution Assay.                              | Antibiotic Concentration vs. Bacterial Growth (MIC value).          |            |
-| 5007-L5 | Virology       | Influenza HA Assay                   | To quantify influenza virus particles harvested from embryonated eggs.         | Virus Harvesting (Allantoic fluid), Haemagglutination (HA) Assay.            | Virus Dilution vs. Agglutination Pattern (HAU/ml).                  |            |
-| 5007-L6 | Medical Micro  | Biofilm Staining                     | To quantify biofilm formation and test the efficacy of disinfectants.          | Biofilm Cultivation (6-well plate), Crystal Violet Staining, Solubilization. | Treatment (Control vs. Dettol) vs. Absorbance (550nm).              |            |
-| 5008-L1 | Human Genetics | DNA Extraction & ACE PCR             | To extract personal DNA and set up PCR for the ACE ID polymorphism.            | Saliva DNA Extraction, PCR Setup, Primer Specificity.                        | Genotype (I/D) vs. Predicted Athletic Phenotype.                    |            |
-| 5008-L2 | Human Genetics | RNA Extraction & InDel Analysis      | To extract RNA from mutated cell lines and analyze ACE genotypes.              | RNA Extraction, UV Spectroscopy (Nanodrop), InDel Analysis.                  | Cell Line Mutation vs. RNA Yield/Quality.                           |            |
-| 5008-L3 | Human Genetics | HRM-qPCR & RNA Quality               | To analyze ancestry-informative SNPs and check qRT-PCR product size.           | High-Resolution Melt (HRM) qPCR, qRT-PCR, Gel Electrophoresis.               | Biogeographic SNPs vs. Fluorescence Melt Curve Profile.             |            |
-| 5018-L1 | Physiology     | Body Composition & Anthropometry     | To assess nutritional status and health risks via physical measurements.       | Skinfold thickness (Caliper), BMI, Waist-to-Hip ratio.                       | Measurement Site vs. Estimated Body Fat % / Health Risk.            |            |
-| 5018-L2 | Biochemistry   | LDH Activity & SDS-PAGE              | To measure enzyme specific activity and visualize protein separation.          | LDH Enzyme Assay, SDS-PAGE Electrophoresis, Lowry Assay.                     | Fraction Type (CFE vs. Pure) vs. Enzyme Units/mg & Band Pattern.    |            |
-| 5018-L3 | Physiology     | Energy Expenditure                   | To determine Resting Metabolic Rate (RMR) via indirect calorimetry.            | O2 Consumption Measurement, RER Calculation, Predictive Equations.           | Activity Level/Physical Metrics vs. Daily Caloric Needs (kcal/day). |            |
-| 5018-L4 | Metabolism     | G-6-Pase Kinetics & Inhibition       | To study enzyme kinetics and the effect of inhibitors on glucose production.   | Microsome Isolation, Inorganic Phosphate Assay, Michaelis-Menten.            | Substrate [S] & Inhibitor vs. Reaction Velocity (V).                |            |
-| 5018-L5 | Clinical Chem  | Enzymatic Glucose Analysis           | To quantify glucose in an unknown sample using a specific coupled reaction.    | Glucose Oxidase Assay, Chromogen Colorimetry, Dipstick comparison.           | Glucose Concentration vs. Absorbance (Pink color intensity).        |            |
-|         |                |                                      |                                                                                |                                                                              |                                                                     |            |
+<br> Simplified Year 2 (still ongoing): 
+| Experiment Title | Key Techniques |
+|---|---|
+| Bacterial ID & Susceptibility | Gram Staining, Kirby Bauer Disc Diffusion, Lawn Inoculation. |
+| DNA Extraction & PCR | Enzymatic Lysis, Spin-column Extraction, Nanodrop, PCR. |
+| Probiotic Analysis & Electrophoresis | Anaerobic Culture, Agarose Gel Electrophoresis, Serial Dilution. |
+| Biochemical ID & MIC | DNase Test, Catalase Test, Microdilution Assay. |
+| Influenza HA Assay | Virus Harvesting (Allantoic fluid), Haemagglutination (HA) Assay. |
+| Biofilm Staining | Biofilm Cultivation (6-well plate), Crystal Violet Staining, Solubilization. |
+| DNA Extraction & ACE PCR | Saliva DNA Extraction, PCR Setup, Primer Specificity. |
+| RNA Extraction & InDel Analysis | RNA Extraction, UV Spectroscopy (Nanodrop), InDel Analysis. |
+| HRM-qPCR & RNA Quality | High-Resolution Melt (HRM) qPCR, qRT-PCR, Gel Electrophoresis. |
+| Body Composition & Anthropometry | Skinfold thickness (Caliper), BMI, Waist-to-Hip ratio. |
+| LDH Activity & SDS-PAGE | LDH Enzyme Assay, SDS-PAGE Electrophoresis, Lowry Assay. |
+| Energy Expenditure | O2 Consumption Measurement, RER Calculation, Predictive Equations. |
+| G-6-Pase Kinetics & Inhibition | Microsome Isolation, Inorganic Phosphate Assay, Michaelis-Menten. |
+| Enzymatic Glucose Analysis | Glucose Oxidase Assay, Chromogen Colorimetry, Dipstick comparison. |
+...TO BE ADDED
