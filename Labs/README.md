@@ -1,4 +1,4 @@
-# $\color{#ffffff}{\text{🧬 Labs}}$
+# $\color{#fffff}{\text{🧬 Labs}}$
 
 $\color{#fffff}{\text{This space contains:}}$
 
