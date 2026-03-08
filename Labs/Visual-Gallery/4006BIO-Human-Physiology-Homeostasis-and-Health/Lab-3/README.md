@@ -1,4 +1,4 @@
-## $\color{#fffff}{\text{Lab 2: Human Physiology - Homeostasis and Health}}$
+## $\color{#fffff}{\text{Lab 3: Human Physiology - Homeostasis and Health}}$
 
 $\color{#fffff}{\text{This project serves as a portfolio for visualising Pulmonary function tests using R.}}$ <br>
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$ <br>
