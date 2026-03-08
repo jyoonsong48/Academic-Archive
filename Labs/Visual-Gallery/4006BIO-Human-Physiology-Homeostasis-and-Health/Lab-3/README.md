@@ -10,5 +10,5 @@ $\color{#fffff}{\text{Normal vs Obstructed}}$
 |Peak expiratory flow (PEF), L/s                 |      -2.019      |       -0.3639        |
 |Time for forced vital capacity (FVC), s         |      -4.280      |       -10.7500       |
 |Forced vital capacity (FVC), L                  |      2.602       |        3.7830        |
-|Forced expiratory volume in 1 second (FEV_1), L |      2.667       |        3.5270        |
+|Forced expiratory volume in 1 second FEV<sub>1</sub>, L |      2.667       |        3.5270        |
 |% FVC expired (in 1s), %                        |     102.500      |       93.2300        |
