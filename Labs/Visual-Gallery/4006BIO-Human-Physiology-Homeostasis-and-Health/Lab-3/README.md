@@ -32,3 +32,7 @@ $\color{#fffff}{\text{Note. Below shows subtracted value: Sample's calculated va
 |Vital capacity (VC=IRV+ERV+Vᴛ)            |               5.27                |
 |Functional residual capacity (FRC=ERV+RV) |                NA                 |
 |Total lung capacity (TLC=VC+RV)           |                NA                 |
+
+### $\color{#fffff}{\text{🛠 Tools Used}}$
+- $\color{#fffff}{\text{Language: R}}$
+- $\color{#fffff}{\text{Libraries: knitr}}$
