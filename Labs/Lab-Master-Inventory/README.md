@@ -1,4 +1,4 @@
-# $\color{#97BFB4}{\text{🧬 Lab Master Inventory}}$
+## $\color{#97BFB4}{\text{🧬 Lab Master Inventory}}$
 
 This space contains simplified tables of over 30+ labs from my Human Biosciences degree.
 <br> To see detailed versions:
