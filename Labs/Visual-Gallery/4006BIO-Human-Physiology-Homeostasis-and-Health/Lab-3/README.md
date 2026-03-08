@@ -14,7 +14,7 @@ $\color{#fffff}{\text{This project serves as a portfolio for visualising Spirome
 |% FVC expired (in 1s), %                        |     102.500      |       93.2300        |
 
 ### $\color{#fffff}{\text{📊 2. Pulmonary function test}}$ <br>
-|Description                                | Normal Breating |
+|Description                                | Normal Breathing |
 |:------------------------------------------|:---------------:|
 |Respiratory rate (RR), breaths/min (BPM)   |     16.380      |
 |Tidal volume (Vᴛ), L                       |      1.380      |
