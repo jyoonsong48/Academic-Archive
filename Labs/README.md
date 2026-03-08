@@ -20,7 +20,7 @@ $\color{#fffff}{\text{This space contains:}}$
 
 <br> $\color{#fffff}{\text{5. Troubleshooting log of failed experiments:}}$ 
 
-🥼 <kbd>[![Troubleshooing-Log](https://img.shields.io/badge/Troubleshooing_Log-97BFB4?style=for-the-badge)](./Troubleshooing-Log)</kbd>
+🥼 <kbd>[![Troubleshooing-Log](https://img.shields.io/badge/Troubleshooing_Log-97BFB4?style=for-the-badge)](./Troubleshooting-Log)</kbd>
 
 <br> $\color{#fffff}{\text{6. Summaries of instruments used in experiments:}}$ 
 
