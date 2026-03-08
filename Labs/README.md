@@ -17,3 +17,11 @@ $\color{#fffff}{\text{This space contains:}}$
 <br> $\color{#fffff}{\text{4. Visuals of the results:}}$ 
 
 🥼 <kbd>[![Visual-Gallery](https://img.shields.io/badge/Visual_Gallery-97BFB4?style=for-the-badge)](./Visual-Gallery)</kbd>
+
+<br> $\color{#fffff}{\text{5. Troubleshooting log of failed experiments:}}$ 
+
+🥼 <kbd>[![Troubleshooing-Log](https://img.shields.io/badge/Troubleshooing_Log-97BFB4?style=for-the-badge)](./Troubleshooing-Log)</kbd>
+
+<br> $\color{#fffff}{\text{6. Summaries of instruments used in experiments:}}$ 
+
+🥼 <kbd>[![Instrument-Manual-Summary](https://img.shields.io/badge/Instrument_Manual_Summary-97BFB4?style=for-the-badge)](./Instrument-Manual-Summary)</kbd>
