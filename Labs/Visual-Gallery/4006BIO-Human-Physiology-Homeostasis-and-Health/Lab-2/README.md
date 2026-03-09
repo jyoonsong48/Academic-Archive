@@ -1,6 +1,6 @@
 ## $\color{#fffff}{\text{Lab 2: Human Physiology - Homeostasis and Health}}$
 
-$\color{#fffff}{\text{This project serves as a portfolio for visualising nerve conduction study's experimental data using R.}}$
+$\color{#fffff}{\text{This project serves as a portfolio for visualising nerve conduction experimental data using R.}}$
 
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$
 
