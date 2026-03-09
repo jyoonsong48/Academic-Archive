@@ -1,6 +1,6 @@
 ## $\color{#fffff}{\text{Lab 5: Human Physiology - Homeostasis and Health}}$
 
-$\color{#fffff}{\text{This project serves as a portfolio for visualising Blood Pressure experimental data using R.}}$
+$\color{#fffff}{\text{This project serves as a portfolio for visualising Blood Pressure (measured by Sphygmomanometer and Stethoscope) experimental data using R.}}$
 
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$
 ### $\color{#fffff}{\text{1. Blood Pressure Using Stethoscope Method}}$
