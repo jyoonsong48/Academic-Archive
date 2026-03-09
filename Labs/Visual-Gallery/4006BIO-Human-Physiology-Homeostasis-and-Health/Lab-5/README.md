@@ -43,5 +43,5 @@ $\color{#fffff}{\text{Note. Measurement site: Elbow}}$
 |Systolic Pressure (mmHg)             |88.94       |103.5          |73.78      |105.70        |
 |Diastolic Pressure (mmHg)            |75.20       |48.5           |50.70      |51.69         |
 |Extra Hydrostatic Pressure (mmHg)    |0.00        |NA             |0.00       |NA            |
-|Corrected Systoholic Pressure (mmHg) |88.94       |NA             |73.78      |NA            |
+|Corrected Systolic Pressure (mmHg)   |88.94       |NA             |73.78      |NA            |
 |Corrected Diastolic Pressure (mmHg)  |75.20       |NA             |50.70      |NA            |
