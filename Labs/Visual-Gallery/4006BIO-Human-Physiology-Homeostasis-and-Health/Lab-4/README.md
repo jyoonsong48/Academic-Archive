@@ -17,3 +17,6 @@ $\color{#fffff}{\text{This project serves as a portfolio for visualising ECG (El
 |:-------------|:--:|:---:|:--:|:--:|
 |Duration (ms) | 28 | 50  | 23 | 24 |
 
+🛠 Tools Used
+Language: R
+Libraries: knitr
