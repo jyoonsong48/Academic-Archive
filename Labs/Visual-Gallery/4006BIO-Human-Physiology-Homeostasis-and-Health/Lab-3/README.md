@@ -1,6 +1,6 @@
 ## $\color{#fffff}{\text{Lab 3: Human Physiology - Homeostasis and Health}}$
 
-$\color{#fffff}{\text{This project serves as a portfolio for visualising Spirometry using R.}}$ <br>
+$\color{#fffff}{\text{This project serves as a portfolio for visualising Spirometry data using R.}}$ <br>
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$ <br>
 ### $\color{#fffff}{\text{📊 1. Normal vs Obstructed}}$ <br>
 
