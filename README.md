@@ -9,7 +9,7 @@ $\color{#fffff}{\text{Contains my coursework from Undergraduate Year 1.}}$ <br><
 
 🥼 <kbd>[![Year_2_Coursework](https://img.shields.io/badge/Year--2--Coursework-97BFB4?style=for-the-badge)](./Year_2_Coursework)</kbd> 
  
-$\color{#fffff}{\text{Contains my coursework from Undergraduate Year 2.}}$
+$\color{#fffff}{\text{Contains my coursework from Undergraduate Year 2.}}$ <br><br>
 
 🥼 <kbd>[![Labs](https://img.shields.io/badge/Labs-97BFB4?style=for-the-badge)](./Labs)</kbd>
 
