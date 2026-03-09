@@ -1,5 +1,5 @@
  ## Polymerase Chain Reaction (PCR) Based Identification of _Meticillin Resistant Staphylococcus Aureus_ (MRSA)
-### Problem: unreadable gel electrephoresis data (blur)
+### Problem: unreadable gel electrephoresis data
 ![5007BIO_Lab2_pic](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/5007BIO/5007BIO_Lab2_pic.PNG)
 #### Note. The original aim of the experiment was to define the clinical isolate by checking the presence of the mecA gene via DNA extraction, PCR, and gel electrophoresis. 
 
