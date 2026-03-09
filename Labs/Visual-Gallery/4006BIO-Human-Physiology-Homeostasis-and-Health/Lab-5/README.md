@@ -25,6 +25,7 @@ $\color{#fffff}{\text{This project serves as a portfolio for visualising Blood P
 ### $\color{#fffff}{\text{4. Raw vs Processed Traces (Lab 1-A)}}$
 $\color{#fffff}{\text{Voltage changes in the Biceps and Triceps relative to increasing weight levels.}}$
 <br> <kbd> [![4006BIO_Lab 5_Graph](https://img.shields.io/badge/🔬-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/4006BIO-Human-Physiology-Homeostasis-and-Health/plots/4006BIO_Lab%205_Graph.png) </kbd>
+<br> $\color{#fffff}{\text{Note. Adult was the only available sample therefore the data only contains adult's.}}$
 
 ### $\color{#fffff}{\text{5. Effects of Arm Position on Blood Pressure}}$
 |Position                    |Systolic Pressure (mmHg) |Diastolic Pressure (mmHg) |
@@ -32,7 +33,8 @@ $\color{#fffff}{\text{Voltage changes in the Biceps and Triceps relative to incr
 |Arm at heart level          |75.69                    |64.95                     |
 |Arm hanging loosely by side |114.20                   |90.42                     |
 |Arm at head level           |106.30                   |64.71                     |
-Note. Measurement Site = Elbow
+
+$\color{#fffff}{\text{Note. Measurement site: Elbow}}$
 
 ### $\color{#fffff}{\text{6. Height Difference from Heart to Blood Pressure Cuff}}$
 |Position                             |Thigh Lying |Thigh Standing |Calf Lying |Calf Standing |
