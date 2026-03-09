@@ -1,6 +1,6 @@
 ## $\color{#fffff}{\text{Lab 1: Human Physiology - Homeostasis and Health}}$
 
-$\color{#fffff}{\text{This project serves as a portfolio for visualizing Electromyography (EMG) and muscle fatigue experimental data using R.}}$
+$\color{#fffff}{\text{This project serves as a portfolio for visualising Electromyography (EMG) and muscle fatigue experimental data using R.}}$
 
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$
 
