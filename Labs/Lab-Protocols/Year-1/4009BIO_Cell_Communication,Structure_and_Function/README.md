@@ -4,7 +4,7 @@
 <br>3.	**Detachment**: Add 0.5 ml Trypsin/EDTA, incubate at 37°C for 3–5 minutes, and tap the flask to release cells.
 <br>4.	**Resuspension**: Add 5 ml growth medium and pipette up and down 10 times to break clumps.
 <br>5.	**Counting**: Mix a sample with Trypan Blue (1:1 ratio) and use a haemocytometer to count viable (unstained) cells.
-<br>6.	**Inoculation**: Calculate and transfer the required volume of stock suspension into two new flasks to reach densities of $4 \times 10^2$ and $4 \times 10^3$ cells/$cm^2$.
+<br>6.	**Inoculation**: Calculate and transfer the required volume of stock suspension into two new flasks to reach densities of $4 \times 10^2$ and $4 \times 10^3$ cells $cm^2$.
 
 ## Lab 2: Cell Toxicity (Setting up GPCR Experiment)
 <br>1.	**Cell Release**: Follow the subculture procedure (Wash with PBS, Detach with Trypsin/EDTA) to create a cell suspension.
