@@ -54,7 +54,7 @@ This space contains simplified tables of over 30+ labs from my Human Biosciences
 | Biochemical ID & MIC | DNase Test, Catalase Test, Microdilution Assay. |
 | Influenza HA Assay | Virus Harvesting (Allantoic fluid), Haemagglutination (HA) Assay. |
 | Biofilm Staining | Biofilm Cultivation (6-well plate), Crystal Violet Staining, Solubilization. |
-| DNA Extraction & ACE PCR | Saliva DNA Extraction, PCR Setup, Primer Specificity. |
+| DNA Extraction & ACE PCR | Saliva, blood DNA Extraction, PCR Setup, Primer Specificity. |
 | RNA Extraction & InDel Analysis | RNA Extraction, UV Spectroscopy (Nanodrop), InDel Analysis. |
 | HRM-qPCR & RNA Quality | High-Resolution Melt (HRM) qPCR, qRT-PCR, Gel Electrophoresis. |
 | Body Composition & Anthropometry | Skinfold thickness (Caliper), BMI, Waist-to-Hip ratio. |
