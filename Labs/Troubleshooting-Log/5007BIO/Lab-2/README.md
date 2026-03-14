@@ -1,6 +1,6 @@
  ## Polymerase Chain Reaction (PCR) Based Identification of _Meticillin Resistant Staphylococcus Aureus_ (MRSA)
 ### Problem: unreadable gel electrephoresis data
-![5007BIO_Lab2_pic](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/5007BIO/5007BIO_Lab2_pic.PNG)
+![5007BIO_Lab2_pic](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/5007BIO-Microorganisms-in-Human-Health-and-Disease/plots/5007BIO_Lab2_pic.PNG)
 #### Note. The original aim of the experiment was to define the clinical isolate by checking the presence of the mecA gene via DNA extraction, PCR, and gel electrophoresis. 
 
 <br> The unexpected nanodrop spectra peak at 230nm from all three DNA extractions led to a significantly lower 260/230 ratio (0.10-0.102) than the ideal, which is 2.3-2.4. (Koetsier and Cantor, 2019) A possible reason for this is insufficient removal of buffer AW1 and AW2, which contain guanidine hydrochloride and ethanol. (QIAGEN, 2021) 
