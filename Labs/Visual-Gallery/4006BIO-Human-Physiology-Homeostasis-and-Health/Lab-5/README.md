@@ -24,7 +24,7 @@ $\color{#fffff}{\text{This project serves as a portfolio for visualising Blood P
 
 ### $\color{#fffff}{\text{4. Raw vs Processed Traces (Lab 1-A)}}$
 $\color{#fffff}{\text{Voltage changes in the Biceps and Triceps relative to increasing weight levels.}}$
-<br> <kbd> [![4006BIO_Lab 5_Graph](https://img.shields.io/badge/🔬-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/4006BIO-Human-Physiology-Homeostasis-and-Health/plots/4006BIO_Lab%205_Graph.png) </kbd>
+<br> <kbd> ![4006BIO_Lab 5_Graph](https://github.com/jyoonsong48/Academic-Archive/blob/main/Labs/Visual-Gallery/4006BIO-Human-Physiology-Homeostasis-and-Health/plots/4006BIO_Lab%205_Graph.png) </kbd>
 <br> $\color{#fffff}{\text{Note. Adult was the only available sample therefore the data only contains adult's.}}$
 
 ### $\color{#fffff}{\text{5. Effects of Arm Position on Blood Pressure}}$
