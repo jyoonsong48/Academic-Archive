@@ -62,4 +62,5 @@ This space contains simplified tables of over 30+ labs from my Human Biosciences
 | Energy Expenditure | O2 Consumption Measurement, RER Calculation, Predictive Equations. |
 | G-6-Pase Kinetics & Inhibition | Microsome Isolation, Inorganic Phosphate Assay, Michaelis-Menten. |
 | Enzymatic Glucose Analysis | Glucose Oxidase Assay, Chromogen Colorimetry, Dipstick comparison. |
+| Analysis of TNF-alpha production in THP-1 cells induced by LPS | Cell counting, Seeding, ELISA, Serial Dilution. |
 ...TO BE ADDED
