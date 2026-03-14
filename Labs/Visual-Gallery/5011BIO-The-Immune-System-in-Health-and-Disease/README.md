@@ -1,6 +1,6 @@
 ## $\color{#fffff}{\text{Lab 1: The Immune System in Health and Disease}}$
 
-$\color{#fffff}{\text{Below is the experimental data visualised by R}}$
+$\color{#fffff}{\text{Below is the experimental data visualised by R.}}$
 
 ### $\color{#fffff}{\text{📊 Experimental Results Summary}}$
 
