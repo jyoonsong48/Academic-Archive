@@ -63,4 +63,5 @@ This space contains simplified tables of over 30+ labs from my Human Biosciences
 | G-6-Pase Kinetics & Inhibition | Microsome Isolation, Inorganic Phosphate Assay, Michaelis-Menten. |
 | Enzymatic Glucose Analysis | Glucose Oxidase Assay, Chromogen Colorimetry, Dipstick comparison. |
 | Analysis of TNF-alpha production in THP-1 cells induced by LPS | Cell counting, Seeding, ELISA, Serial Dilution. |
+|Analysis of changes in TNF-alpha and IL-6 mRNA expression in a LPS-stimulated human monocytic leukaemia cell line THP-1 |RNA Isolation (QIAGEN RNeasy), Nanodrop Quantification, and One-step qRT-PCR. |
 ...TO BE ADDED
