@@ -1,6 +1,6 @@
 ## $\color{#97BFB4}{\text{🧬 Lab Master Inventory}}$
 
-This space contains simplified tables of over 30+ labs from my Human Biosciences degree.
+This space contains simplified tables of labs from my Human Biosciences degree.
 <br> To see detailed versions:
 <kbd> [![Year1_Labs_Backup](https://img.shields.io/badge/Year_1_Labs_Backup-97BFB4?style=for-the-badge)](./Year1_Labs_Backup) </kbd>
 <kbd> [![Year2_Labs_Backup](https://img.shields.io/badge/Year_2_Labs_Backup-97BFB4?style=for-the-badge)](./Year2_Labs_Backup) </kbd>
