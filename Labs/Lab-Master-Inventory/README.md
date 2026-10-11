@@ -45,7 +45,7 @@ This space contains simplified tables of over 30+ labs from my Human Biosciences
 
 <br>
 
-<br> Simplified Year 2 (still ongoing): 
+<br> Simplified Year 2: 
 | Experiment Title | Key Techniques |
 |---|---|
 | Bacterial ID & Susceptibility | Gram Staining, Kirby Bauer Disc Diffusion, Lawn Inoculation. |
@@ -65,4 +65,17 @@ This space contains simplified tables of over 30+ labs from my Human Biosciences
 | Analysis of TNF-alpha production in THP-1 cells induced by LPS | Cell counting, Seeding, ELISA, Serial Dilution. |
 | Analysis of changes in TNF-alpha and IL-6 mRNA expression in a LPS-stimulated human monocytic leukaemia cell line THP-1 | RNA Isolation (QIAGEN RNeasy), Nanodrop Quantification, One-step qRT-PCR. |
 | Multiparametric analysis of peripheral blood cells | Antibody Staining, RBC Lysis, Flow Cytometry. |
-...TO BE ADDED
+
+
+<br>
+
+<br> Simplified Year 3 (ongoing): 
+| Experiment Title | Key Techniques |
+|---|---|  
+|HepG2 Cell Culture & Seeding |	Aseptic Technique (Laminar Flow Hood), Trypsin/EDTA Detachment, Trypan Blue Haemocytometer Counting, Seeding Calculation. |
+|LPS Treatment of HepG2 Cells	|Confluence/Morphology/Contamination Check, Treatment Media Prep (100 ng/ml LPS vs 1% DMSO Control), Media Exchange. |
+|DNA Isolation & mtDNA vs Genomic PCR	| DNAzol Extraction (Fume Cupboard), Ethanol Precipitation, Nanodrop Spectophotometry, DNA Dilution to 25 ng/µl, PCR Setup with No-Template Control. |
+|MCF-7 Cell Culture & 96-Well Seeding	| Aseptic Technique, Trypsin/EDTA Detachment, Trypan Blue Haemocytometer Counting, 96-Well Seeding. |
+|Tamoxifen & Metformin Treatment |	Serial Dilution, Media Exchange. |
+|MTT Cell Viability Assay	MTT | DMSO Formazan Solubilisation (Orbital Shaker), MTT Assay. |
+
